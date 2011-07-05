@@ -1,0 +1,1 @@
+To use this library for Arduino please copy into the "libraries" directory in your "sketchbook" or "arduino" directory
